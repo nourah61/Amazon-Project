@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/appium_demos/Facebook(failed)">
+    <classes>
+      <class name="TestCases.TC01_LoginPage">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="TearDown"/>
+          <include name="getresult"/>
+          <include name="firstcase"/>
+        </methods>
+      </class> <!-- TestCases.TC01_LoginPage -->
+    </classes>
+  </test> <!-- C:/appium_demos/Facebook(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

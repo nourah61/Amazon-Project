@@ -1,0 +1,1 @@
+{"uuid":"e92ac19f-aff7-4011-8900-f8536b18e5bd","name":"TestCases.TC01_LoginPage","children":["026f11db-f377-49eb-a99e-36e83080e60e"],"befores":[],"afters":[{"name":"TearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677002987692,"stop":1677002989141}],"start":1677002958133,"stop":1677002989154}
